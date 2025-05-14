@@ -1,0 +1,72 @@
+export const Data = [
+  {
+    id: "1",
+    title: "Apa itu Fibonacci",
+    yt: "https://youtu.be/MghZqKsC1Qk?si=iSjKYtaRx4nIg1cI",
+    link: "/Halaman/page/1-crypto-trading/04-Crypto-Fibonacci-Secret-Kalimasada/01-Apa-itu-Fibonacci",
+    category: "crypto",
+  },
+  {
+    id: "2",
+    title: "Keajaiban Fibonacci",
+    yt: "https://youtu.be/MMiV4QZ_Fww?si=IcTYAVjt9KviaQf6",
+    link: "/Halaman/page/1-crypto-trading/04-Crypto-Fibonacci-Secret-Kalimasada/02-Keajaiban-Fibonacci",
+    category: "crypto",
+  },
+  {
+    id: "3",
+    title: "Golden Ratio Fibonacci",
+    yt: "https://youtu.be/RGeJsJ6hduU?si=lmHXF-hvS1UOKy2b",
+    link: "/Halaman/page/1-crypto-trading/04-Crypto-Fibonacci-Secret-Kalimasada/03-Golden-Ratio-Fibonacci",
+    category: "crypto",
+  },
+  {
+    id: "4",
+    title: "Sistem Angka Fibonacci",
+    yt: "https://youtu.be/uTUEAfFkW08?si=oDaKPrPTUaBR0gYJ",
+    link: "/Halaman/page/1-crypto-trading/04-Crypto-Fibonacci-Secret-Kalimasada/04-Sistem-Angka-Fibonacci",
+    category: "crypto",
+  },
+  {
+    id: "5",
+    title: "Retracement Fibonacci",
+    yt: "https://youtu.be/D-FCktItIEg?si=M5yimwLM7p65jTS7",
+    link: "/Halaman/page/1-crypto-trading/04-Crypto-Fibonacci-Secret-Kalimasada/05-Retracement-Fibonacci",
+    category: "crypto",
+  },
+  {
+    id: "6",
+    title: "Harmonic Support Using Fibonacci",
+    yt: "https://youtu.be/32DiXknV5kY?si=NVa8K5xuoLjqhxvP",
+    link: "/Halaman/page/1-crypto-trading/04-Crypto-Fibonacci-Secret-Kalimasada/06-Harmonic-Support-Using-Fibonacci",
+    category: "crypto",
+  },
+  {
+    id: "7",
+    title: "Harmonic Resistance Using Fibonacci",
+    yt: "https://youtu.be/2Zso_iLCIqk?si=gLe-GASs8GICFxb6",
+    link: "/Halaman/page/1-crypto-trading/04-Crypto-Fibonacci-Secret-Kalimasada/07-Harmonic-Resistance-Using-Fibonacci",
+    category: "crypto",
+  },
+  {
+    id: "8",
+    title: "Trend Based Fib Extension",
+    yt: "https://youtu.be/8JR5L69GSnE?si=1yZbG4TbfPd0z70O",
+    link: "/Halaman/page/1-crypto-trading/04-Crypto-Fibonacci-Secret-Kalimasada/08-Trend-Based-Fib-Extension",
+    category: "crypto",
+  },
+  {
+    id: "9",
+    title: "Fib Channels",
+    yt: "https://youtu.be/RJXyE4k4PgA?si=arr9EzoDi2jUKGxG",
+    link: "/Halaman/page/1-crypto-trading/04-Crypto-Fibonacci-Secret-Kalimasada/09-Fib-Channels",
+    category: "crypto",
+  },
+  {
+    id: "10",
+    title: "Pendalaman Fibonacci",
+    yt: "https://youtu.be/BjZVhTMxSCM?si=rHqy2LLV9h-Uxbpf",
+    link: "/Halaman/page/1-crypto-trading/04-Crypto-Fibonacci-Secret-Kalimasada/10-Pendalaman-Fibonacci",
+    category: "crypto",
+  }
+];

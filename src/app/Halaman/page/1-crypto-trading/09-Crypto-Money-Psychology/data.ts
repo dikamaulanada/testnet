@@ -1,0 +1,65 @@
+export const Data = [
+  {
+    id: "1",
+    title: "Money Management Kalimasada",
+    yt: "https://youtu.be/MlcFSmerDVQ?si=i53Zv6LnRLJDAsEn",
+    link: "/Halaman/page/1-crypto-trading/09-Crypto-Money-Psychology/01-Money-Management-Kalimasada",
+    category: "crypto",
+  },
+  {
+    id: "2",
+    title: "Mind Management Kalimasada",
+    yt: "https://youtu.be/C72lKMlQIsE?si=ZkAMBONjWGekLt1c",
+    link: "/Halaman/page/1-crypto-trading/09-Crypto-Money-Psychology/02-Mind-Management-Kalimasada",
+    category: "crypto",
+  },
+  {
+    id: "3",
+    title: "Psikologi Faktor yang Penting",
+    yt: "https://youtu.be/zzBI2wuAjbc?si=oWdmLjjsw--QdB7W",
+    link: "/Halaman/page/1-crypto-trading/09-Crypto-Money-Psychology/03-Psikologi-Faktor-yang-Penting",
+    category: "crypto",
+  },
+  {
+    id: "4",
+    title: "Psikologis ketika trading",
+    yt: "https://youtu.be/pHHE4r4JYUU?si=JUFbSJThLEPwhOHx",
+    link: "/Halaman/page/1-crypto-trading/09-Crypto-Money-Psychology/04-Psikologis-ketika-trading",
+    category: "crypto",
+  },
+  {
+    id: "5",
+    title: "Mekanisme dalam Otak yang Menyebabkan Bias",
+    yt: "https://youtu.be/iL5u_f7LC84?si=pajPw7AUqhwHN3_G",
+    link: "/Halaman/page/1-crypto-trading/09-Crypto-Money-Psychology/05-Mekanisme-dalam-Otak-yang-Menyebabkan-Bias",
+    category: "crypto",
+  },
+  {
+    id: "6",
+    title: "Pola Prilaku para Trader dan Investor",
+    yt: "https://youtu.be/6EXUEs-ZnOo?si=IbbpjQ2f7GzWoLWq",
+    link: "/Halaman/page/1-crypto-trading/09-Crypto-Money-Psychology/06-Pola-Prilaku-para-Trader-dan-Investor",
+    category: "crypto",
+  },
+  {
+    id: "7",
+    title: "Overconfidence Bias",
+    yt: "https://youtu.be/hKB5NycaweQ?si=HsMG-5YYTICX4GC4",
+    link: "/Halaman/page/1-crypto-trading/09-Crypto-Money-Psychology/07-Overconfidence-Bias",
+    category: "crypto",
+  },
+  {
+    id: "8",
+    title: "Herding Bevahior Bias",
+    yt: "https://youtu.be/lW037SQim1k?si=wAlmSnc72QlmIX0c",
+    link: "/Halaman/page/1-crypto-trading/09-Crypto-Money-Psychology/08-Herding-Bevahior-Bias",
+    category: "crypto",
+  },
+  {
+    id: "9",
+    title: "Loss Aversion Bias",
+    yt: "https://youtu.be/Mnrz_qf4TLU?si=ixES7h0clnASL4Pr",
+    link: "/Halaman/page/1-crypto-trading/09-Crypto-Money-Psychology/09-Loss-Aversion-Bias",
+    category: "crypto",
+  }
+];

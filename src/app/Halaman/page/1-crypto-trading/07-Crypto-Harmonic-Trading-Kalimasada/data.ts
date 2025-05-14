@@ -1,0 +1,72 @@
+export const Data = [
+  {
+    id: "1",
+    title: "Apa itu Harmonic Trading",
+    yt: "https://youtu.be/lSPaHWUanlc?si=QpYt3CzcrP6QLdtf",
+    link: "/Halaman/page/1-crypto-trading/07-Crypto-Harmonic-Trading-Kalimasada/01-Apa-itu-Harmonic-Trading",
+    category: "crypto",
+  },
+  {
+    id: "2",
+    title: "Tahapan Menerapkan Harmonic",
+    yt: "https://youtu.be/F5Cuchtfk8g?si=fTV_9gqd0rztErDL",
+    link: "/Halaman/page/1-crypto-trading/07-Crypto-Harmonic-Trading-Kalimasada/02-Tahapan-Menerapkan-Harmonic",
+    category: "crypto",
+  },
+  {
+    id: "3",
+    title: "Fibonacci",
+    yt: "https://youtu.be/_RG3lWyZb4E?si=bB9eW7gnx27O-aJ3",
+    link: "/Halaman/page/1-crypto-trading/07-Crypto-Harmonic-Trading-Kalimasada/03-Fibonacci",
+    category: "crypto",
+  },
+  {
+    id: "4",
+    title: "Elliot Wave",
+    yt: "https://youtu.be/EP2LkPpRVYE?si=Hvo6eXZDDDMatCbq",
+    link: "/Halaman/page/1-crypto-trading/07-Crypto-Harmonic-Trading-Kalimasada/04-Elliot-Wave",
+    category: "crypto",
+  },
+  {
+    id: "5",
+    title: "Korelasi Elliot Wave dan Fibonacci",
+    yt: "https://youtu.be/n-95x28rg8w?si=6m-dUNBXYkP2DD46",
+    link: "/Halaman/page/1-crypto-trading/07-Crypto-Harmonic-Trading-Kalimasada/05-Korelasi-Elliot-Wave-dan-Fibonacci",
+    category: "crypto",
+  },
+  {
+    id: "6",
+    title: "Dasar dari Pola dan Rasio Harmonic Trading",
+    yt: "https://youtu.be/zVhJxKbIcq0?si=P5yY4HGQ4u0PJXNf",
+    link: "/Halaman/page/1-crypto-trading/07-Crypto-Harmonic-Trading-Kalimasada/06-Dasar-dari-Pola-dan-Rasio-Harmonic-Trading",
+    category: "crypto",
+  },
+  {
+    id: "7",
+    title: "Berbagai Harmonic Pattern",
+    yt: "https://youtu.be/mvurV4y6fy4?si=NXESCjckZwFPiQ8L",
+    link: "/Halaman/page/1-crypto-trading/07-Crypto-Harmonic-Trading-Kalimasada/07-Berbagai-Harmonic-Pattern",
+    category: "crypto",
+  },
+  {
+    id: "8",
+    title: "Shark Pattern dan Butterfly Pattern",
+    yt: "https://youtu.be/e9caIzj8d4k?si=QqoEvorpAjqVGNwd",
+    link: "/Halaman/page/1-crypto-trading/07-Crypto-Harmonic-Trading-Kalimasada/08-Shark-Pattern-dan-Butterfly-Pattern",
+    category: "crypto",
+  },
+  {
+    id: "9",
+    title: "Entry Trigger",
+    yt: "https://youtu.be/2j2Bqmu9sYg?si=XmQSEgyzvZ2GpXDf",
+    link: "/Halaman/page/1-crypto-trading/07-Crypto-Harmonic-Trading-Kalimasada/09-Entry-Trigger",
+    category: "crypto",
+  },
+  {
+    id: "10",
+    title: "Rangkuman dan Fakta dari Harmonic Trading",
+    yt: "https://youtu.be/DAXleE8lKRo?si=hm6N-qMh--U0-6sE",
+    link: "/Halaman/page/1-crypto-trading/07-Crypto-Harmonic-Trading-Kalimasada/10-Rangkuman-dan-Fakta-dari-Harmonic-Trading",
+    category: "crypto",
+  }
+];

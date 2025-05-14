@@ -1,0 +1,72 @@
+export const Data = [
+  {
+    id: "1",
+    title: "Technical Indicators",
+    yt: "",
+    link: "/Halaman/page/1-crypto-trading/03-Crypto-Technical-Indicators-Kalimasada/01-Technical-Indicators",
+    category: "indicator",
+  },
+  {
+    id: "2",
+    title: "Pivot Point",
+    yt: "",
+    link: "/Halaman/page/1-crypto-trading/03-Crypto-Technical-Indicators-Kalimasada/02-Pivot-Point",
+    category: "indicator",
+  },
+  {
+    id: "3",
+    title: "Keltner Channel",
+    yt: "",
+    link: "/Halaman/page/1-crypto-trading/03-Crypto-Technical-Indicators-Kalimasada/03-Keltner-Channel",
+    category: "indicator",
+  },
+  {
+    id: "4",
+    title: "Parabolic SAR",
+    yt: "",
+    link: "/Halaman/page/1-crypto-trading/03-Crypto-Technical-Indicators-Kalimasada/04-Parabolic-SAR",
+    category: "indicator",
+  },
+  {
+    id: "5",
+    title: "Renko Chart",
+    yt: "",
+    link: "/Halaman/page/1-crypto-trading/03-Crypto-Technical-Indicators-Kalimasada/05-Renko-Chart",
+    category: "indicator",
+  },
+  {
+    id: "6",
+    title: "Know Sure Thing",
+    yt: "",
+    link: "/Halaman/page/1-crypto-trading/03-Crypto-Technical-Indicators-Kalimasada/06-Know-Sure-Thing",
+    category: "indicator",
+  },
+  {
+    id: "7",
+    title: "Donchain Channel",
+    yt: "",
+    link: "/Halaman/page/1-crypto-trading/03-Crypto-Technical-Indicators-Kalimasada/07-Donchain-Channel",
+    category: "indicator",
+  },
+  {
+    id: "8",
+    title: "Chaikin Money Flow",
+    yt: "",
+    link: "/Halaman/page/1-crypto-trading/03-Crypto-Technical-Indicators-Kalimasada/08-Chaikin-Money-Flow",
+    category: "indicator",
+  },
+  {
+    id: "9",
+    title: "Ichimoku Cloud",
+    yt: "",
+    link: "/Halaman/page/1-crypto-trading/03-Crypto-Technical-Indicators-Kalimasada/09-Ichimoku-Cloud",
+    category: "indicator",
+  },
+  {
+    id: "10",
+    title: "Volume Profile Fixed Range",
+    yt: "",
+    link: "/Halaman/page/1-crypto-trading/03-Crypto-Technical-Indicators-Kalimasada/10-Volume-Profile-Fixed-Range",
+    category: "indicator",
+  }
+];

@@ -1,0 +1,72 @@
+export const Data = [
+  {
+    id: "1",
+    title: "Apa itu Order Flow",
+    yt: "https://youtu.be/sf-6I5TA7gc?si=FtQm9cW9YWM14KvR",
+    link: "/Halaman/page/1-crypto-trading/06-Crypto-Order-Flow-Kalimasada/01-Apa-itu-Order-Flow",
+    category: "crypto",
+  },
+  {
+    id: "2",
+    title: "Penggunaan Order Flow",
+    yt: "https://youtu.be/86jKlINVDcU?si=yucDiqItbWaGBjp_",
+    link: "/Halaman/page/1-crypto-trading/06-Crypto-Order-Flow-Kalimasada/02-Penggunaan-Order-Flow",
+    category: "crypto",
+  },
+  {
+    id: "3", 
+    title: "Teknik Order Flow",
+    yt: "https://youtu.be/l73FhCDqNvc?si=BCJZ-XKjrjzyO9Nn",
+    link: "/Halaman/page/1-crypto-trading/06-Crypto-Order-Flow-Kalimasada/03-Teknik-Order-Flow",
+    category: "crypto",
+  },
+  {
+    id: "4",
+    title: "Volume Profile",
+    yt: "https://youtu.be/NwUrizlmoxg?si=Cw_kh2h68CRZ2GQ5",
+    link: "/Halaman/page/1-crypto-trading/06-Crypto-Order-Flow-Kalimasada/04-Volume-Profile",
+    category: "crypto",
+  },
+  {
+    id: "5",
+    title: "Footprint Chart",
+    yt: "https://youtu.be/xgBHWYd8zwc?si=VUCl7M0jtewFp0qN",
+    link: "/Halaman/page/1-crypto-trading/06-Crypto-Order-Flow-Kalimasada/05-Footprint-Chart",
+    category: "crypto",
+  },
+  {
+    id: "6",
+    title: "Order Book Analysis",
+    yt: "https://youtu.be/lK7jvK4w8OM?si=X4jM91OmSURqdxhL",
+    link: "/Halaman/page/1-crypto-trading/06-Crypto-Order-Flow-Kalimasada/06-Order-Book-Analysis",
+    category: "crypto",
+  },
+  {
+    id: "7",
+    title: "Market Depth",
+    yt: "https://youtu.be/UFqmjQ6RX4I?si=fmaPe_meCXijw5LR",
+    link: "/Halaman/page/1-crypto-trading/06-Crypto-Order-Flow-Kalimasada/07-Market-Depth",
+    category: "crypto",
+  },
+  {
+    id: "8",
+    title: "Time and Sales",
+    yt: "https://youtu.be/A-qIgr2584o?si=FcwvBchSGdsEOBhU",
+    link: "/Halaman/page/1-crypto-trading/06-Crypto-Order-Flow-Kalimasada/08-Time-and-Sales",
+    category: "crypto",
+  },
+  {
+    id: "9",
+    title: "Delta Volume",
+    yt: "https://youtu.be/8jT6Lmk-xZM?si=J93_YBazSWMHzM2A",
+    link: "/Halaman/page/1-crypto-trading/06-Crypto-Order-Flow-Kalimasada/09-Delta-Volume",
+    category: "crypto",
+  },
+  {
+    id: "10",
+    title: "Penerapan Order Flow",
+    yt: "https://youtu.be/LkJwsEIWDmg?si=vbC99aQBmtewJaur",
+    link: "/Halaman/page/1-crypto-trading/06-Crypto-Order-Flow-Kalimasada/10-Penerapan-Order-Flow",
+    category: "crypto",
+  }
+];

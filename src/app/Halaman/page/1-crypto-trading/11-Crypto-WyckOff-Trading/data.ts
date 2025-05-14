@@ -1,0 +1,72 @@
+export const Data = [
+  {
+    id: "1",
+    title: "Sejarah Wyckoff Trading Strategy",
+    yt: "https://youtu.be/FrTK5JEHrxQ?si=diUF0kDXkNsviXLY",
+    link: "/Halaman/page/1-crypto-trading/11-Crypto-WyckOff-Trading/01-Sejarah-Wyckoff-Trading-Strategy",
+    category: "crypto",
+  },
+  {
+    id: "2", 
+    title: "Hukum dan Prinsip dari Wyckoff",
+    yt: "https://youtu.be/xNkE76Bc25U?si=1-Yo8M8Xpl5gSf_C",
+    link: "/Halaman/page/1-crypto-trading/11-Crypto-WyckOff-Trading/02-Hukum-dan-Prinsip-dari-Wyckoff",
+    category: "crypto",
+  },
+  {
+    id: "3",
+    title: "Penerapan Fase dalam Market Secara Umum",
+    yt: "https://youtu.be/1FpWt4xrc_E?si=TcN-bL9wbUTyAn_E",
+    link: "/Halaman/page/1-crypto-trading/11-Crypto-WyckOff-Trading/03-Penerapan-Fase-dalam-Market-Secara-Umum",
+    category: "crypto",
+  },
+  {
+    id: "4",
+    title: "Berbagai Fase Wyckoff dalam Trading Crypto",
+    yt: "https://youtu.be/p7zU1L6LsGY?si=UAWidqvQ1bOeJczV",
+    link: "/Halaman/page/1-crypto-trading/11-Crypto-WyckOff-Trading/04-Berbagai-Fase-Wyckoff-dalam-Trading-Crypto",
+    category: "crypto",
+  },
+  {
+    id: "5",
+    title: "Supply and Demand",
+    yt: "https://youtu.be/8hJrMBeA7us?si=buQ6h6avoladfYEv",
+    link: "/Halaman/page/1-crypto-trading/11-Crypto-WyckOff-Trading/05-Supply-and-Demand",
+    category: "crypto",
+  },
+  {
+    id: "6",
+    title: "Volume Spread Analysis",
+    yt: "https://youtu.be/ej8PhOebS6A?si=zKFA6KNJriclhA4f",
+    link: "/Halaman/page/1-crypto-trading/11-Crypto-WyckOff-Trading/06-Volume-Spread-Analysis",
+    category: "crypto",
+  },
+  {
+    id: "7",
+    title: "Pergerakan Price Action Sederhana",
+    yt: "https://youtu.be/aSbBHoQ1qu0?si=G2o5TUZIsCBnOdsA",
+    link: "/Halaman/page/1-crypto-trading/11-Crypto-WyckOff-Trading/07-Pergerakan-Price-Action-Sederhana",
+    category: "crypto",
+  },
+  {
+    id: "8",
+    title: "Fase dari Wyckoff PART 1",
+    yt: "https://youtu.be/S8t2fuVpUiU?si=_yqBqkFdfj4XIHbh",
+    link: "/Halaman/page/1-crypto-trading/11-Crypto-WyckOff-Trading/08-Fase-dari-Wyckoff-PART-1",
+    category: "crypto",
+  },
+  {
+    id: "9",
+    title: "Fase dari Wyckoff PART 2",
+    yt: "https://youtu.be/_0PRo9zonBo?si=F_lD-utV8emr-hB4",
+    link: "/Halaman/page/1-crypto-trading/11-Crypto-WyckOff-Trading/09-Fase-dari-Wyckoff-PART-2",
+    category: "crypto",
+  },
+  {
+    id: "10",
+    title: "Penerapan Wyckoff dalam Crypto",
+    yt: "https://youtu.be/AotRp24spX4?si=jpYionax1t1sJh2c",
+    link: "/Halaman/page/1-crypto-trading/11-Crypto-WyckOff-Trading/10-Penerapan-Wyckoff-dalam-Crypto",
+    category: "crypto",
+  }
+];

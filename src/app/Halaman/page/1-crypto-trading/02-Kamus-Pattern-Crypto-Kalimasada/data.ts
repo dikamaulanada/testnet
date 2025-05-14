@@ -1,0 +1,72 @@
+export const Data = [
+  {
+    id: "1",
+    title: "Apa Itu Pattern",
+    yt: "https://youtu.be/UCyrchAmfX4?si=rqsgUkx4r6FetiEx",
+    link: "/Halaman/page/1-crypto-trading/02-Kamus-Pattern-Crypto-Kalimasada/01-Apa-Itu-Pattern",
+    category: "trading",
+  },
+  {
+    id: "2",
+    title: "ABCD Pattern",
+    yt: "https://youtu.be/EA51wk57QkU?si=8poiRvbbN4L2wA_n",
+    link: "/Halaman/page/1-crypto-trading/02-Kamus-Pattern-Crypto-Kalimasada/02-ABCD-Pattern",
+    category: "trading",
+  },
+  {
+    id: "3",
+    title: "Bat Pattern",
+    yt: "https://youtu.be/skkFrU10ZT4?si=2uoI-OSh07ORpc4S",
+    link: "/Halaman/page/1-crypto-trading/02-Kamus-Pattern-Crypto-Kalimasada/03-Bat-Pattern",
+    category: "trading",
+  },
+  {
+    id: "4",
+    title: "Gartley Pattern",
+    yt: "https://youtu.be/wxxpHg_2fN8?si=N1Cbs7Y6FZvOY0oR",
+    link: "/Halaman/page/1-crypto-trading/02-Kamus-Pattern-Crypto-Kalimasada/04-Gartley-Pattern",
+    category: "trading",
+  },
+  {
+    id: "5",
+    title: "Crab Pattern",
+    yt: "https://youtu.be/xP9sdtWiPcs?si=XCldNpiQcehre8B6",
+    link: "/Halaman/page/1-crypto-trading/02-Kamus-Pattern-Crypto-Kalimasada/05-Crab-Pattern",
+    category: "trading",
+  },
+  {
+    id: "6",
+    title: "Diamond Pattern",
+    yt: "https://youtu.be/AU4tHYZHB40?si=NWsmihmltB_LqEl2",
+    link: "/Halaman/page/1-crypto-trading/02-Kamus-Pattern-Crypto-Kalimasada/06-Diamond-Pattern",
+    category: "trading",
+  },
+  {
+    id: "7",
+    title: "Broadening Pattern",
+    yt: "https://youtu.be/1Y-wP34Y68g?si=B6jlLGnUX1mZ1rtf",
+    link: "/Halaman/page/1-crypto-trading/02-Kamus-Pattern-Crypto-Kalimasada/07-Broadening-Pattern",
+    category: "trading",
+  },
+  {
+    id: "8",
+    title: "Andrews Pitchfork Pattern",
+    yt: "https://youtu.be/1A_YacAN7zg?si=EYm0NBe0RYVwCWvj",
+    link: "/Halaman/page/1-crypto-trading/02-Kamus-Pattern-Crypto-Kalimasada/08-Andrews-Pitchfork-Pattern",
+    category: "trading",
+  },
+  {
+    id: "9",
+    title: "Linear Regression Channel",
+    yt: "https://youtu.be/qQZc2XU0s-8?si=rPGSTG7Oke2EznJo",
+    link: "/Halaman/page/1-crypto-trading/02-Kamus-Pattern-Crypto-Kalimasada/09-Linear-Regression-Channel",
+    category: "trading",
+  },
+  {
+    id: "10",
+    title: "Rectangle Channels",
+    yt: "https://youtu.be/HJrm03ngi_s?si=p_qDD9XWEpIbvg5z",
+    link: "/Halaman/page/1-crypto-trading/02-Kamus-Pattern-Crypto-Kalimasada/10-Rectangle-Channels",
+    category: "trading",
+  }
+];
