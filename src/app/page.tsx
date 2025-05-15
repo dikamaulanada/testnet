@@ -1,6 +1,6 @@
 "use client";
 import React, { useEffect, useState } from 'react';
-import { useSession, signIn } from "next-auth/react";
+import { useSession, signIn, signOut } from "next-auth/react";
 import Loading from '@/ui/loading';
 import { AccessButton } from '@/components/buttons/AccessButton';
 import BlockchainPage from './Halaman/3-blockchain/page';
@@ -13,7 +13,6 @@ import AllClassesPage from './Halaman/0-all-classes/page';
 export default function HomePage() {
   const { data: session, status } = useSession();
   const [loading, setLoading] = useState(true);
-  const [isTrialUser, setIsTrialUser] = useState(false);
 
   useEffect(() => {
     const checkAccess = async () => {
@@ -21,7 +20,7 @@ export default function HomePage() {
         try {
           const response = await fetch("/api/verify-role", {
             headers: {
-              Authorization: `Bearer ${session.accessToken}`, // fixed token string
+              Authorization: `Bearer ${session.accessToken}`, // ← FIXED HERE
             },
           });
 
@@ -31,8 +30,11 @@ export default function HomePage() {
           }
 
           if (response.ok) {
+            // Optional: handle response data if needed
             const data = await response.json();
-            setIsTrialUser(data.isTrialUser); // keep this if needed
+            console.log("Role verified:", data);
+          } else {
+            console.warn("Role not verified");
           }
         } catch (error) {
           console.error("Error verifying role:", error);
@@ -53,11 +55,21 @@ export default function HomePage() {
       <div className="fixed inset-0 z-0 bg-black"></div>
       <div className="relative z-10">
         <div className="container mx-auto px-4 py-8">
-          <div className="mt-5"><AllClassesPage /></div>
-          <div className="mt-5"><TradingPage /></div>
-          <div className="mt-5"><InvestingPage /></div>
-          <div className="mt-5"><BlockchainPage /></div>
-          <div className="mt-5"><LiveclassPage /></div>
+          <div className="mt-5">
+            <AllClassesPage />
+          </div>
+          <div className="mt-5">
+            <TradingPage />
+          </div>
+          <div className="mt-5">
+            <InvestingPage />
+          </div>
+          <div className="mt-5">
+            <BlockchainPage />
+          </div>
+          <div className="mt-5">
+            <LiveclassPage />
+          </div>
           <div className="text-center text-gray-500 text-sm mt-8 mb-20">
             © {new Date().getFullYear()} Akademi Crypto. All rights reserved.
           </div>
@@ -105,5 +117,5 @@ export default function HomePage() {
     );
   }
 
-  return renderContent();
+  return renderContent(); // ← Selalu render konten jika sudah login
 }
